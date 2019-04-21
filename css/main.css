@@ -131,12 +131,9 @@ a, i{
   color: #fff;
 }
 
-.content-wrapper{
+.page-section{
 	width:94%;
 	margin:auto;
-}
-
-.content{
 	border-bottom:2px solid #eee;
 	padding:1.75em 0;
 }
@@ -242,7 +239,7 @@ header {
 	color:#fff;
 }
 /**aligns project title to center of image**/
-.project-title-overlay{
+.project h2{
 	position:absolute;
 	top:50%;
 	left:50%;
